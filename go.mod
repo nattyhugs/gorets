@@ -1,4 +1,4 @@
-module github.com/jpfielding/gorets
+module github.com/nattyhugs/gorets
 
 go 1.10
 
